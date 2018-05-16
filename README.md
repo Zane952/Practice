@@ -1,3 +1,3 @@
 # Practice
 
-<bold> XYZ
+<50p> XYZ
